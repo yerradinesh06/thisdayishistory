@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159989433595",
+    "project_id": "thisdayinhistory-6b3e5",
+    "storage_bucket": "thisdayinhistory-6b3e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159989433595:android:59a9342e485d515c269c5e",
+        "android_client_info": {
+          "package_name": "com.thisdayinhistory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuaOGU0u1kIUbxnnyElNQPjPOkrOXxmkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
